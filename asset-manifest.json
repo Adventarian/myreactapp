@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Adventarian/myreactapp/static/css/main.26af0d9c.chunk.css",
+    "main.js": "/Adventarian/myreactapp/static/js/main.35e60934.chunk.js",
+    "main.js.map": "/Adventarian/myreactapp/static/js/main.35e60934.chunk.js.map",
+    "runtime-main.js": "/Adventarian/myreactapp/static/js/runtime-main.217bd416.js",
+    "runtime-main.js.map": "/Adventarian/myreactapp/static/js/runtime-main.217bd416.js.map",
+    "static/js/2.3010f1db.chunk.js": "/Adventarian/myreactapp/static/js/2.3010f1db.chunk.js",
+    "static/js/2.3010f1db.chunk.js.map": "/Adventarian/myreactapp/static/js/2.3010f1db.chunk.js.map",
+    "static/js/3.fdfffa07.chunk.js": "/Adventarian/myreactapp/static/js/3.fdfffa07.chunk.js",
+    "static/js/3.fdfffa07.chunk.js.map": "/Adventarian/myreactapp/static/js/3.fdfffa07.chunk.js.map",
+    "index.html": "/Adventarian/myreactapp/index.html",
+    "static/css/main.26af0d9c.chunk.css.map": "/Adventarian/myreactapp/static/css/main.26af0d9c.chunk.css.map",
+    "static/js/2.3010f1db.chunk.js.LICENSE.txt": "/Adventarian/myreactapp/static/js/2.3010f1db.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Adventarian/myreactapp/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.217bd416.js",
+    "static/js/2.3010f1db.chunk.js",
+    "static/css/main.26af0d9c.chunk.css",
+    "static/js/main.35e60934.chunk.js"
+  ]
+}
