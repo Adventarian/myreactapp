@@ -1,8 +1,8 @@
-import './images/bg-intro-desktop.png'
-import './images/bg-intro-mobile.png'
-import './images/icon.png'
-import './images/icon-error.svg'
-import './App.css';
+import './bg-intro-desktop.png'
+import './bg-intro-mobile.png'
+import './icon.png'
+import './icon-error.svg'
+import '/App.css';
 
 function App() {
 
