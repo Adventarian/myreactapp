@@ -2,7 +2,7 @@ import '.src/images/bg-intro-desktop.png'
 import '.src/images/bg-intro-mobile.png'
 import '.src/images/icon.png'
 import '.src/images/icon-error.svg'
-import '/App.css';
+import 'src/App.css';
 
 function App() {
 
